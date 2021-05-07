@@ -1,4 +1,4 @@
-package ex.algorism.implement;
+package ex.algorithm.implement;
 import java.util.Scanner;
 
 public class Time{

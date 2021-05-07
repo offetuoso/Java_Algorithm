@@ -1,4 +1,4 @@
-package ex.algorism.greedy;
+package ex.algorithm.greedy;
 
 public class ReverseCharge {
 	
